@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-5m*^y8!a7-aecb8-+s+nyr0402fi0vgxvey8zr@^2qg503qm+t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pokedex-apgk.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
